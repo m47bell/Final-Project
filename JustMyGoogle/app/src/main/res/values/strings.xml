@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_choose_rssfeed">ChooseRSSFeed</string>
+    <string name="get_data">get_data</string>
 </resources>
